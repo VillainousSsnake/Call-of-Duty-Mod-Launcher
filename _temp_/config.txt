@@ -1,1 +1,1 @@
-current_game:iw7
+current_game_path:C:\Program Files (x86)\Steam\steamapps\common\Call of Duty - Infinite Warfare\iw7_ship.exe
